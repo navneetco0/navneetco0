@@ -35,6 +35,6 @@
 
 <p align="center"  height= "300px"> 
    <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetco0&theme=react&layout=compact" />
-   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api?username=navneetco0&theme=react&show_icons=true&include_all_commits=true"/>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetco0&" alt="devjs1000" /></p>
        
  </p>
