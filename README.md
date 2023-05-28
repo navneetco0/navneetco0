@@ -33,8 +33,8 @@
 </p>
 
 
-<p > 
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap"  > 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetco0&show_icons=true&locale=en" alt="navneetco0" /></p>
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetco0&show_icons=true&locale=en" alt="navneetco0" /></p>
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetco0&" alt="navneetco0" /></p>     
- </p>
+ </div>
