@@ -33,8 +33,8 @@
 </p>
 
 
-<p align="center"  height= "300px"> 
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetco0&show_icons=true&locale=en" alt="devjs1000" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetco0&" alt="devjs1000" /></p>
-       
+<p > 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetco0&show_icons=true&locale=en" alt="navneetco0" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetco0&show_icons=true&locale=en" alt="navneetco0" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetco0&" alt="navneetco0" /></p>     
  </p>
