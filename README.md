@@ -31,10 +31,13 @@
     <a target="_blank" href="https://navneet-kumar.vercel.app/"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
 
 </p>
+<p align="center"  height= "300px"> 
+   <img height= "100%"  src="https://github-stats-alpha.vercel.app/api?username=navneetco0&cc=252734&tc=fff&ic=fff&bc=fff"/>
+   <img height= "100%" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetco0&theme=react&layout=compact" />
+  
+       
+ </p>
 
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap"  > 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetco0&show_icons=true&locale=en" alt="navneetco0" /></p>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetco0&show_icons=true&locale=en" alt="navneetco0" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetco0&" alt="navneetco0" /></p>     
- </div>
+<p  > 
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetco0&theme=react" alt="navneetco0" /></p>     
+ </p>
