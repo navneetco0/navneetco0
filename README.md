@@ -1,6 +1,7 @@
 <h1 align="left">Hi, ✋ I'm Navneet Kumar</h1>
 
-<h4 align="left">An aspiring full stack developer with a specialization in 💻 Full-Stack Web Developer from Masai School, Bengaluru (India). Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
+<h4 align="left">I am a MERN developer with 1 year of experience at Helpee, where I developed and maintained web applications using the MERN stack (MongoDB, Express, React, Node.js). I have a strong understanding of web development principles and best practices, and I am proficient in HTML, CSS, and JavaScript. I am also experienced with React, Node.js, and MongoDB.
+</h4>
 <img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
 
 
